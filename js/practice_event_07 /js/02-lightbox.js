@@ -2,7 +2,7 @@
 import { galleryItems } from './gallery-items.js';
 // Change code below this line
 
-
+console.log(arr)
 const gallery = document.querySelector('.gallery');
 
 function markUp(arr) {
